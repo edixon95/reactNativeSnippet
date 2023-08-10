@@ -12,8 +12,8 @@ const ViewProfile = ({navigation}) => {
     age: 27,
     location: "London",
     bio: "Alice, a vivacious explorer with a heart full of passion and a mind brimming with creativity. From the vibrant city streets to the tranquil countryside, she finds joy in every corner of life's journey.",
-    personStats: ["6.9", "Female", "Relationship", "Graduate", "Smoker", "Social"],
-    personInterest: ["#Games", "#Football", "#69", "#Skating", "#Netflix", "#Reading"]
+    personStats: ["5.9", "Female", "Relationship", "Graduate", "Smoker", "Social"],
+    personInterest: ["#Games", "#Football", "#Food", "#Skating", "#Netflix", "#Reading"]
   })
 
   return (
