@@ -9,4 +9,4 @@ Figma to design and follow
 Slowly building a a custom UI library to be used across the app
 
 ## Preview:
-![Android Emulator](./readmeImg/readme.png)# reactNativeSnippet
+![Android Emulator](./readmeImg/readme.png)
